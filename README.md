@@ -18,4 +18,4 @@ I extract the country name, capital, population, and region from the JSON and pr
 python main.py
 
 ## Screenshot
-(Insert screenshot here after uploading to GitHub)
+![Program Output](Screenshot 2026-02-11 221215.png)
